@@ -3,7 +3,6 @@ import os
 
 project_name = "US-Visa"
 
-
 file_list = [
 
     f"{project_name}/__init__.py.",
